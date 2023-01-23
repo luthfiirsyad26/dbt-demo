@@ -2,12 +2,20 @@
 # Name your project! Project names should contain only lowercase characters
 # and underscores. A good package name should reflect your organization's
 # name or the intended use of these models
+<<<<<<< HEAD
 name: 'analysis'
+=======
+name: 'dbt_demo2'
+>>>>>>> c73c111a546a2c244f37d0165187838fffe7650c
 version: '1.0.0'
 config-version: 2
 
 # This setting configures which "profile" dbt uses for this project.
+<<<<<<< HEAD
 profile: 'ghgbugvh'
+=======
+profile: 'hovfmhrt'
+>>>>>>> c73c111a546a2c244f37d0165187838fffe7650c
 
 # These configurations specify where dbt should look for different types of files.
 # The `source-paths` config, for example, states that models in this project can be
